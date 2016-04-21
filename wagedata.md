@@ -21,15 +21,11 @@ This presentation serves as complementary document to the application itself whi
 
 To reach the application via your favourite web browser you can [click here](https://semola2006.shinyapps.io/dataproduct/)
 
+
 (2) The dataset
 ========================================================
 
-<<<<<<< HEAD
-We will work with a popular R dataset: Wage. You can upload it in R via the ISLR library. It contains wage and other relevant information for a group of 3,000 workers in the Mid-Atlantic region. Data was manually assembled by Steve Miller, of Open BI (www.openbi.com), from the March 2011 Supplement to Current Population Survey data. 
-=======
-We will work with a popular R dataset: Wage. You can upload it in R via the ISLR library. It contains wage and other relevant information for a group of 3,000 workers in the Mid-Atlantic region. Data was manually assembled by Steve Miller, of Open BI (www.openbi.com).
->>>>>>> refs/heads/gh-pages
-
+We will work with a popular R dataset: Wage. You can upload it in R via the ISLR library. It contains wage and other relevant information for a group of 3,000 workers in the Mid-Atlantic region.
 The dataset is composed of 3000 observation and 12 variables as follows:
 
 
@@ -39,7 +35,8 @@ The dataset is composed of 3000 observation and 12 variables as follows:
 [11] "logwage"    "wage"      
 ```
 
-In our analysis and model we will focus on a selection of those: age of the workeker, education, race, jobclass and finally wage.
+We will focus on a selection of those: age of the workeker, education, race, jobclass and finally wage.
+
 
 (3) Exploring the dataset
 ========================================================
@@ -62,6 +59,7 @@ The application is designed to make interactive use of the dataset in two ways:
 The user interface is split in two main sections (top / bottom) to reflect those two functionalities.
 
 We only put one Submit button to refresh the calculations, and we placed it at the very bottom of the page.
+
 
 (5) Outcome/results
 ========================================================
