@@ -24,7 +24,7 @@ To reach the application via your favourite web browser you can [click here](htt
 (2) The dataset
 ========================================================
 
-We will work with a popular R dataset: Wage. You can upload it in R via the ISLR library. It contains wage and other relevant information for a group of 3,000 workers in the Mid-Atlantic region. Data was manually assembled by Steve Miller, of Open BI (www.openbi.com), from the March 2011 Supplement to Current Population Survey data. 
+We will work with a popular R dataset: Wage. You can upload it in R via the ISLR library. It contains wage and other relevant information for a group of 3,000 workers in the Mid-Atlantic region. Data was manually assembled by Steve Miller, of Open BI (www.openbi.com).
 
 The dataset is composed of 3000 observation and 12 variables as follows:
 
